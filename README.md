@@ -7,5 +7,5 @@ Realicé la prueba en una VM Ubuntu:
   Instalar testresources  pip install testresources
   Instalar PADE pip install pade 
     https://pade.readthedocs.io/en/latest/
-  Activar virtual envoronment
+  Activar virtual environment
   runcommand
